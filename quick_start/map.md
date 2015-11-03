@@ -50,7 +50,7 @@ It should not be located exact location of your building in the map. You can rou
 **CAUTION**: Currently nodes and edges location is not associated with region. So you should not change the region position, size, and rotation after you have added nodes and edges.
 
 ## <a name="add_node"></a>Add Node
-1. Select `Toology` tab.
+1. Select `Topology` tab.
 2. `Click` on the map where you want to an add node with pressing `a key`.
 
   Usually, nodes are located at intersection, door, staircase, elevator, and destination locations.
